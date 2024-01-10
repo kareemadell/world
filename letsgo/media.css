@@ -1,0 +1,72 @@
+
+.up-par .left{
+  
+font-size: 10px;
+font-weight: bold;
+}
+.up-par .right{
+ 
+    font-size: 10px;
+font-weight: bold;
+}
+.bodyof_site .up_bar{
+    display: block;
+}
+.bodyof_site .up_bar .right{
+   text-align: left;
+   margin: 20px 0;
+   width: fit-content;
+}
+.bodyof_site .up_bar .right .dropdown .region{
+    width: 100%;
+    text-indent: 20px;
+}
+.bodyof_site .up_bar .left input{
+width: 100%;
+}
+.bodyof_site .up_bar .left button{
+    margin-top: 10px;
+    width: 100px;
+}
+.bodyof_scound_site .upBar span i{
+  font-size: 10px;
+}
+.bodyof_scound_site .upBar span{
+    margin-top:20px ;
+    margin-left:20px ;
+    height: 30px;
+    width: 80px;
+}
+.bodyof_scound_site{
+width: auto;
+
+}
+
+.bodyof_scound_site .contant .left{
+    text-indent: 20px;
+ width: fit-content;
+    }
+
+    .bodyof_scound_site .contant .left img{
+      width: calc(100% - 40px) ;
+    }
+    .bodyof_scound_site .contant .right{
+      width: fit-content;
+    }
+
+.bodyof_scound_site .contant .right h2{
+    font-size:30px ;
+    font-weight: bolder;
+    text-indent: 20px;
+  }
+  .bodyof_scound_site .contant .right .text {
+    text-indent: 20px;
+    display: block;
+  }
+  .bodyof_scound_site .contant {
+    margin: 20px 0 0 0;
+  }
+  .bodyof_scound_site .contant .right .border_countries{
+    text-indent: 20px;
+    flex-wrap: wrap;
+  }
